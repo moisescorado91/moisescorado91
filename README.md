@@ -27,6 +27,6 @@
 ---
 
 ## 🌍 Conéctate conmigo
-- 💼 [Portafolio web](https://tusitio.com)
+- 💼 [Portafolio web](https://portafolio-moisescorado.netlify.app)
 - 📧 coradomoises91@gmail.com
 - 🐙 [GitHub](https://github.com/moisescorado91)
